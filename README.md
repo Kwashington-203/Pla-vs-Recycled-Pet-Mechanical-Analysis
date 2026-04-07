@@ -67,3 +67,17 @@ These results confirm that recycled PET provides substantially greater strength 
 ## Conclusion
 
 Recycled PET filament demonstrates significantly superior mechanical performance compared to PLA, making it a promising and sustainable alternative for structural 3D printing applications.
+
+## How to Run
+
+1. Download all project files:
+
+   - `Pla_vs_Recycled_Pet_Mechanical_Analysis.m`
+   - `pla_tensile_test_1.csv`
+   - `pla_tensile_test_2.csv`
+   - `pet_tensile_test_1.csv`
+   - `pet_tensile_test_2.csv`
+
+2. Open `Pla_vs_Recycled_Pet_Mechanical_Analysis.m` in MATLAB
+
+3. Run the script
